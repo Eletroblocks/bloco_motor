@@ -1678,7 +1678,7 @@
 <vertex x="20.660275" y="2.77165"/>
 <vertex x="20.6437375" y="2.749009375"/>
 </polygon>
-<text x="-0.86" y="21.3" size="0.6096" layer="21" font="fixed" rot="R270">V1.0.1</text>
+<text x="-0.45" y="21.26" size="0.6096" layer="22" font="fixed" rot="MR270">V1.0.1</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
